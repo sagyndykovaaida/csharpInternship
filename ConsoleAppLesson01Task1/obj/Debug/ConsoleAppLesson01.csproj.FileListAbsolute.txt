@@ -1,0 +1,7 @@
+D:\Projects\CsharpInternship\ConsoleAppLesson01\bin\Debug\ConsoleAppLesson01.exe.config
+D:\Projects\CsharpInternship\ConsoleAppLesson01\bin\Debug\ConsoleAppLesson01.exe
+D:\Projects\CsharpInternship\ConsoleAppLesson01\bin\Debug\ConsoleAppLesson01.pdb
+D:\Projects\CsharpInternship\ConsoleAppLesson01\obj\Debug\ConsoleAppLesson01.csproj.AssemblyReference.cache
+D:\Projects\CsharpInternship\ConsoleAppLesson01\obj\Debug\ConsoleAppLesson01.csproj.CoreCompileInputs.cache
+D:\Projects\CsharpInternship\ConsoleAppLesson01\obj\Debug\ConsoleAppLesson01.exe
+D:\Projects\CsharpInternship\ConsoleAppLesson01\obj\Debug\ConsoleAppLesson01.pdb
